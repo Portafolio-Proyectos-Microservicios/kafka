@@ -1,0 +1,9 @@
+spring:
+ application:
+  name: kafka
+
+# Config Server
+ config:
+  import: "configserver:"
+ cloud:
+  cloud.config.uri: http://localhost:8888
