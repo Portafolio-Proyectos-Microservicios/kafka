@@ -1,6 +1,8 @@
 spring:
  application:
   name: kafka
+ banner:
+  location: classpath:banner/banner.txt
 
 # Config Server
  config:

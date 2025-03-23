@@ -1,5 +1,5 @@
-com\microservice\kafka\kafka\service\impl\KafkaConsumer.class
-com\microservice\kafka\kafka\service\impl\KafkaProducer.class
 com\microservice\kafka\kafka\service\KafkaService.class
 com\microservice\kafka\kafka\controller\KafkaController.class
 com\microservice\kafka\kafka\KafkaApplication.class
+com\microservice\kafka\kafka\service\impl\KafkaConsumer.class
+com\microservice\kafka\kafka\service\impl\KafkaProducer.class
